@@ -16,3 +16,7 @@
 ## isFetching vs isLoading
 - `isFetching` - the async query function to fetch server data is not resolved yet.
 - `isLoading` - no cached data, plus `isFetching`
+
+## Mutations
+- making a network request to update server state.
+- 
